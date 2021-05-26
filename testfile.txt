@@ -8,4 +8,6 @@ making first changes
 hello nishant
 hello
 first repo
-
+1. java tutuorial
+2. geeksforgeek
+3. sql
