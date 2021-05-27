@@ -14,7 +14,7 @@ var a;
 a = setInterval(fun, 3000);  
   
 function fun() {  
-alert(" Welcome to the javaTpoint.com ");  
+alert(" Welcome to the javaTpoint.com HTML ");  
 }</script>  
   
 </body>  
